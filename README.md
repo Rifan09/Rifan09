@@ -14,7 +14,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun ku ya.
 ## Reach me on
 <div align='left'>
   <p align='left'>
-    <a href="linkedin.com/in/muhammad-rifani0903"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="linkedin.com/in/muhammad-rifani0903/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
     <a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
     <a href="muhammadrifani016@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
   </p>
