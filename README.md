@@ -9,7 +9,10 @@ Saya memiliki minat di bidang Data dan Machine Learning.<br>
 
 Saya juga memiliki gelar Google TensorFlow Developer sejak 2024.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](linkedin.com/in/muhammad-rifani0903) ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun ku ya.
+
+## Reach me on
+- <a href="linkedin.com/in/muhammad-rifani0903">LinkedIn</a>
 
 ## GitHub Statistics
 <p align="left">
