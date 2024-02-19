@@ -1,15 +1,15 @@
 # Hi there 👋
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-Perkenalkan nama saya **Muhammad Rifani**.<br>
+Introduce my self, My name is **Muhammad Rifani**.<br>
 
-Saya seorang Mahasiswa di Universitas Sari Mulia dan tahun ketiga di jurusan teknologi Informasi.<br>
+I am a third-year Information Technology major student at Sari Mulia University.<br>
 
-Saya memiliki minat di bidang Data dan Machine Learning.<br>
+My interests lie in data and machine learning.<br>
 
-Saya juga memiliki gelar Google TensorFlow Developer sejak 2024.<br>
+In 2024, I earned a title certificate as a TensorFlow Developer.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun ku ya.
+If you are interested in getting to know me, please follow my account.<br>
 
 ## Reach me on
 <div align='left'>
