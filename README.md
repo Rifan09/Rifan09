@@ -5,7 +5,7 @@ Introduce my self, My name is **Muhammad Rifani**.<br>
 
 I am a third-year Information Technology major student at Sari Mulia University.<br>
 
-My interests lie in data and machine learning.<br>
+My interests are in the field of data and machine learning.<br>
 
 In 2024, I earned a title certificate as a TensorFlow Developer.<br>
 
