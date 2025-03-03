@@ -21,7 +21,7 @@ If you'd like to connect, feel free to reach out via the platforms below:
     <a href="https://www.linkedin.com/in/muhammad-rifani0903/"> 
       <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"> 
     </a>&nbsp;&nbsp;
-    <a href="https://twitter.com/your-twitter/">
+    <a href="">
       <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true">
     </a>&nbsp;&nbsp;
     <a href="mailto:muhammadrifani016@gmail.com">
@@ -30,13 +30,13 @@ If you'd like to connect, feel free to reach out via the platforms below:
     <a href="https://www.instagram.com/your-instagram/"> 
       <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"> 
     </a>&nbsp;&nbsp;
-    <a href="https://www.kaggle.com/your-kaggle/"> 
+    <a href="(https://www.kaggle.com/siirifan)"> 
       <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png"> 
     </a>&nbsp;&nbsp;
-    <a href="https://www.tiktok.com/@your-tiktok/"> 
+    <a href=""> 
       <img height="30" src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg"> 
     </a>&nbsp;&nbsp;
-    <a href="https://public.tableau.com/app/profile/your-tableau/"> 
+    <a href=""> 
       <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png"> 
     </a>&nbsp;&nbsp;
   </p>
