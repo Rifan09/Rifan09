@@ -30,7 +30,7 @@ If you'd like to connect, feel free to reach out via the platforms below:
     <a href="https://www.instagram.com/your-instagram/"> 
       <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"> 
     </a>&nbsp;&nbsp;
-    <a href="(https://www.kaggle.com/siirifan)"> 
+    <a href="https://www.kaggle.com/siirifan"> 
       <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png"> 
     </a>&nbsp;&nbsp;
     <a href=""> 
